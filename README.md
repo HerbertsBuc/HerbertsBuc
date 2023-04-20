@@ -6,13 +6,13 @@ I am a software developer from Riga, Latvia with a technical mindset and a passi
 <h2> My skillset: </h2>
 
 - &nbsp; C# <br>
-&nbsp; .NET
-&nbsp; Git
-&nbsp; JavaScript
-&nbsp; TypeScript
-&nbsp; Python
-&nbsp; SQL
-&nbsp; TDD, Unit testing
+- &nbsp; .NET <br>
+- &nbsp; Git <br>
+- &nbsp; JavaScript <br>
+- &nbsp; TypeScript <br>
+- &nbsp; Python <br>
+- &nbsp; SQL <br>
+- &nbsp; TDD, Unit testing <br>
 
 <h2> Projects: </h2>
 
