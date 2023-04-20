@@ -22,7 +22,7 @@ I am a software developer from Riga, Latvia with a technical mindset and a passi
 
 - &nbsp;Flight Planner App - created a web application with C#, HTTP, Web API, TypeScript. The goal of the project was to create an application which can store flights between different airports and allows users to search them.
 
-- &nbsp;SQL project for a movie database working with relational databases - table creation, querries, data insertion and filtering accross tables.
+- &nbsp;SQL project for a movie database working with realation databases - table creation, querries, data insertion and filtering across tables.
 
 <h2> Other interests :soccer:</h2>
 
