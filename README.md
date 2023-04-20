@@ -24,15 +24,15 @@ Flight Planner App - created a web application with C#, HTTP, Web API, TypeScrip
 
 SQL project for a movie database working with relational databases - table creation, querries, data insertion and filtering accross tables.
 
-<h2> Other interests: </h2>
+<h2> Other interests: 🔭</h2>
 
 Football, trivia, hiking, snooker, bird watching
 
 <h2> Contact info: </h2>
 
-If you want to contact me:
+If you want to contact me: <br>
  herberts.bucenieks@gmail.com <br>
-https://www.linkedin.com/in/herberts-bucenieks/ <br>
+https://www.linkedin.com/in/herberts-bucenieks/
 
 
 <!--
