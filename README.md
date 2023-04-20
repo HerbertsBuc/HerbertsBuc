@@ -1,4 +1,4 @@
-### Hi there 👋 I am <h1> <FONT COLOR=" "> tag. #171, 235, 198 Herberts Bucenieks </h1>
+### Hi there 👋 I am <h1 style="color::rgb(171, 235, 198);"> Herberts Bucenieks </h1>
 
 Welcome to my profile!
 I am a software developer from Riga, Latvia with a technical mindset and a passion for complex problem solving.
