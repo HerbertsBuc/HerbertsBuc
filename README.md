@@ -30,6 +30,7 @@ Other interests:
 
 Football, trivia, hiking, snooker, bird watching
 
+If you want to contact me: herberts.bucenieks@gmail.com, https://www.linkedin.com/in/herberts-bucenieks/
 
 
 <!--
