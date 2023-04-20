@@ -31,8 +31,8 @@ Football, trivia, hiking, snooker, bird watching
 <h2> Contact info: </h2>
 
 If you want to contact me:
- herberts.bucenieks@gmail.com
-https://www.linkedin.com/in/herberts-bucenieks/
+ herberts.bucenieks@gmail.com <br>
+https://www.linkedin.com/in/herberts-bucenieks/ <br>
 
 
 <!--
