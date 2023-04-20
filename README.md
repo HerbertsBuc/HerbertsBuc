@@ -3,7 +3,7 @@
 Welcome to my profile!
 I am a software developer from Riga, Latvia with a technical mindset and a passion for complex problem solving.
 
-<h2> My skillset </h2>
+<h2> My skillset ⚡</h2>
 
 - &nbsp; C# <br>
 - &nbsp; .NET <br>
@@ -14,7 +14,7 @@ I am a software developer from Riga, Latvia with a technical mindset and a passi
 - &nbsp; SQL <br>
 - &nbsp; TDD, Unit testing <br>
 
-<h2> Projects </h2>
+<h2> Projects 💬</h2>
 
 A web scrapping application to scrape real estate data from the advertisment site ss.com and store the infromation in a CSV file. Created in Python using the BeautifulSoup library. The main challenge was that the site ss.com does not have standard HTML structure with divisions and classes for easy web scraping and required detailed pattern seeking in id numbers.
 
@@ -30,7 +30,7 @@ Football, trivia, hiking, snooker, bird watching
 
 <h2> Contact info </h2>
 
-If you want to contact me: <br>
+If you want to contact me: 📫 <br>
  herberts.bucenieks@gmail.com <br>
 https://www.linkedin.com/in/herberts-bucenieks/
 
