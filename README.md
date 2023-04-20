@@ -5,14 +5,14 @@ I am a software developer from Riga, Latvia with a technical mindset and a passi
 
 <h2> My skillset: </h2>
 
-&nbsp C#
-&nbsp .NET
-&nbsp Git
-&nbsp JavaScript
-&nbsp TypeScript
-&nbsp Python
-&nbsp SQL
-&nbsp TDD, Unit testing
+&nbsp; C#
+&nbsp; .NET
+&nbsp; Git
+&nbsp; JavaScript
+&nbsp; TypeScript
+&nbsp; Python
+&nbsp; SQL
+&nbsp; TDD, Unit testing
 
 <h2> Projects: </h2>
 
