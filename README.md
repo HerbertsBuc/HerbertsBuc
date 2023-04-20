@@ -1,5 +1,4 @@
 ### Hi there 👋 I am <h1 style="color:Tomato;"> Herberts Bucenieks </h1>
-<h3 style="color:rgb(130, 224, 170);">Hello World</h3>
 
 Welcome to my profile!
 I am a software developer from Riga, Latvia with a technical mindset and a passion for complex problem solving.
