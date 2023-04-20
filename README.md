@@ -1,11 +1,11 @@
-### Hi there 👋 I am Herberts Bucenieks
+### Hi there 👋 I am <h1> Herberts Bucenieks </h1>
 
 Welcome to my profile!
 I am a software developer from Riga, Latvia with a technical mindset and a passion for complex problem solving.
 
 <h2> My skillset: </h2>
 
-&nbsp; C#
+- &nbsp; C#
 &nbsp; .NET
 &nbsp; Git
 &nbsp; JavaScript
