@@ -3,7 +3,7 @@
 Welcome to my profile!
 I am a software developer from Riga, Latvia with a technical mindset and a passion for complex problem solving.
 
-My skillset:
+<h2> My skillset: </h>
 
 C#
 .NET
