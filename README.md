@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Herberts Bucenieks
+
+Welcome to my profile!
 
 <!--
 **HerbertsBuc/HerbertsBuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
