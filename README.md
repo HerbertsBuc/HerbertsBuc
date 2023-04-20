@@ -24,7 +24,7 @@ I am a software developer from Riga, Latvia with a technical mindset and a passi
 
 - &nbsp;SQL project for a movie database working with relational databases - table creation, querries, data insertion and filtering accross tables.
 
-<h2> Other interests 🔭</h2>
+<h2> Other interests :soccer:</h2>
 
 Football, trivia, hiking, snooker, bird watching
 
