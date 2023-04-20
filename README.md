@@ -5,7 +5,7 @@ I am a software developer from Riga, Latvia with a technical mindset and a passi
 
 <h2> My skillset: </h2>
 
-- &nbsp; C#
+- &nbsp; C# <br>
 &nbsp; .NET
 &nbsp; Git
 &nbsp; JavaScript
