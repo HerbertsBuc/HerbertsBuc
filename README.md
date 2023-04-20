@@ -16,7 +16,7 @@ I am a software developer from Riga, Latvia with a technical mindset and a passi
 
 <h2> Projects :computer: </h2>
 
-- &nbsp;A web scrapping application to scrape real estate data from the advertisment site ss.com and store the infromation in a CSV file. Created in Python using the BeautifulSoup library. The main challenge was that the site ss.com does not have standard HTML structure with divisions and classes for easy web scraping and required detailed pattern seeking in id numbers.
+- &nbsp;A web scrapping application to scrape real estate data from the advertisement site ss.com and store the infromation in a CSV file. Created in Python using the BeautifulSoup library. The main challenge was that the site ss.com does not have standard HTML structure with divisions and classes for easy web scraping and required detailed pattern seeking in id numbers.
 
 - &nbsp;Scooter Rental application in C#. Managing many layers of classes and interfaces (archives, calculations, scooter service, scooter rental). Created with a TDD approach.
 
