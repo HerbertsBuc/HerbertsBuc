@@ -22,7 +22,7 @@ I am a software developer from Riga, Latvia with a technical mindset and a passi
 
 - &nbsp;Scooter Rental application in C#. Managing many layers of classes and interfaces (archives, calculations, scooter service, scooter rental). Created with a TDD approach.
 
-- &nbsp;Flight Planner App - created a web application with C#, HTTP, Web API, TypeScript. The goal of the project was to create an application which can store flights between different airports and allows users to search them.
+- &nbsp;Flight Planner App - created a web application with C#, Web API, TypeScript. The goal of the project was to create an application which can store flights between different airports and allows users to search them.
 
 
 
