@@ -13,6 +13,8 @@ I am a software developer from Riga, Latvia with a technical mindset and a passi
 - &nbsp; Python <br>
 - &nbsp; SQL <br>
 - &nbsp; TDD, Unit testing <br>
+- &nbsp; Node.js <br>
+- &nbsp; Flask <br>
 
 <h2> Projects :computer: </h2>
 
