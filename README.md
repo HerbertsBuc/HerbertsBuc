@@ -10,7 +10,9 @@ I am a software developer from Riga, Latvia with a technical mindset and a passi
 - &nbsp; Git <br>
 - &nbsp; JavaScript <br>
 - &nbsp; TypeScript <br>
-- &nbsp; HTTP & Web API Basics <br>
+- &nbsp; Eternity Framework <br>
+- &nbsp; HTTP & Web API <br>
+- &nbsp; SOLID <br>
 - &nbsp; Python <br>
 - &nbsp; SQL <br>
 - &nbsp; TDD, Unit testing <br>
