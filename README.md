@@ -21,14 +21,13 @@ I am a software developer from Riga, Latvia with a technical mindset and a passi
 
 <h2> Projects :computer: </h2>
 
-- &nbsp;WeatherServiceAPI in C#. A RESTful web application which uses a GET request and returns the weather data for the location from where the request is made. Upon the GET request the application uses 3rd party services to determine the IP address, geolocotaion data and weather data. Data is stored in database, uses in-memory cache. Unit tests with 90% coverage.
+- &nbsp;WeatherServiceAPI in C#. A RESTful web application created using Entity Framework which uses a GET request and returns the weather data for the location from where the request is made. Upon the GET request the application uses 3rd party services to determine the IP address, geolocotaion data and weather data. Data is stored in database, uses in-memory cache. Unit tests with 90% coverage.
+
+- &nbsp;Flight Planner App - created a web application with C# using Entity Framework. An application which can store flights between different airports and allows users to search them. Data stored in databse, uses mappers, authentication.
 
 - &nbsp;Scooter Rental application in C#. Managing many layers of classes and interfaces (archives, calculations, scooter service, scooter rental). Created with a TDD approach.
 
-- &nbsp;Flight Planner App - created a web application with C#, Web API, SQL. The goal of the project was to create an application which can store flights between different airports and allows users to search them.
-
 - &nbsp;A web scrapping application to scrape real estate data from the advertisement site ss.com and store the information in a CSV file. Created in Python using the BeautifulSoup library. The main challenge was that the site ss.com does not have standard HTML structure with divisions and classes for easy web scraping and required detailed pattern seeking in id numbers.
-
 
 
 <h2> Other interests :soccer:</h2>
