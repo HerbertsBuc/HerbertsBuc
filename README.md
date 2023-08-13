@@ -23,7 +23,7 @@ I am a software developer from Riga, Latvia with a technical mindset and a passi
 
 - &nbsp;WeatherServiceAPI in C#. A RESTful web application created using Entity Framework which uses a GET request and returns the weather data for the location from where the request is made. Upon the GET request the application uses 3rd party services to determine the IP address, geolocotaion data and weather data. Data is stored in database, uses in-memory cache. Unit tests with 90% coverage.
 
-- &nbsp;Flight Planner App - created a web application with C# using Entity Framework. An application which can store flights between different airports and allows users to search them. Data stored in databse, uses mappers, authentication.
+- &nbsp;Flight Planner App - created a web application with C# using Entity Framework. An application which can store flights between different airports and allows users to search them. Data stored in databse, uses mappers, authentication, various request types.
 
 - &nbsp;Scooter Rental application in C#. Managing many layers of classes and interfaces (archives, calculations, scooter service, scooter rental). Created with a TDD approach.
 
